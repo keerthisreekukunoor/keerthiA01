@@ -1,0 +1,43 @@
+article{
+	color:#cc0099;
+	background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+	padding:10px 10px 10px 10px;
+	float:left;
+	border: 3px solid yellow;
+	display: block;
+}
+header{
+	background-color:#b3ffff;
+    font-style:italic;
+	transition: ease-in-out, width .35s ease-in-out;
+	border: 2px solid yellow;
+	text-align: center;
+	
+}
+footer{
+	background-color:#bbff99;
+	border: 2px solid yellow;
+	font-size:100%;
+	font-style: oblique;
+	text-align: center;
+}
+#past-section{
+	color:#ffff00;
+	font-family:arialblack;
+}
+#future-section{
+	color:#ff0000;
+	font-family:arialblack;
+}
+.section-header{
+	color:#9900cc;
+	font-family:arialblack;
+	
+}
+.aside-header{
+	background-color:#ff6666;
+	font-family:arialblack;
+	border: 2px solid blue;
+	
+}
+	
