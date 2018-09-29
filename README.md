@@ -1,6 +1,6 @@
-# 44-563 w03 Introduction to JavaScript
+#  A01
 
-Introduces a JavaScript app with mathematical functions. 
+this project is about the personal website which contains a home web page and a contact page and a basic math page.
 
 ## Uses
 
@@ -8,7 +8,6 @@ Introduces a JavaScript app with mathematical functions.
 - CSS, a style sheet language for styling markup languages like html
 - JavaScript, a scripting language for the web
 - BootStrap, a framework for responsive web design
-- QUnit, a unit testing framework for JavaScript
 
 ## References
 
