@@ -1,7 +1,8 @@
 body{
-  background: #11998e;
-  background: -webkit-linear-gradient(to right, #38ef7d, #11998e); 
-  background: linear-gradient(to right, #38ef7d, #11998e);
+
+  background-image : url(pics.jpg);
+	background-size: 100%;
+  
 
 } 
 /*tic-tac-toe heading*/
@@ -81,7 +82,8 @@ p{
     width: 60vh; 
 }
 div > div :nth-child(1) {
-  font-size: 3em;
+  text-align: center;
+  display: inline;
 }
 div > div :nth-child(2) {
   text-align: center;
